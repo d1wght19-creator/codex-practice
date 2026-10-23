@@ -1,0 +1,80 @@
+[
+  {
+    "file": "process_01.pptx",
+    "title": "01_手机制造流程 (1)",
+    "bytes": 113830,
+    "sha256": "ace749543dc3f99c9e2f1e665edd80fd9a348dda06d5c2613577330b77c79bd4"
+  },
+  {
+    "file": "process_02.pptx",
+    "title": "02_平板电脑制造流程 (2)",
+    "bytes": 114088,
+    "sha256": "30ca1f3212a8ee798082a0e8a31d98a15b8c16b01cdc327950d91795a341f806"
+  },
+  {
+    "file": "process_03.pptx",
+    "title": "03_笔记本电脑制造流程",
+    "bytes": 113450,
+    "sha256": "79b0ddf64b0fd928619ec795fec445f57bd10342f4686e33f38154cbd671b894"
+  },
+  {
+    "file": "process_04.pptx",
+    "title": "04_台式机与一体机制造流程",
+    "bytes": 113149,
+    "sha256": "209fe25ffde0cefff8a48b0912589b185ce7ba6cae9262ff7bc8400615f034e7"
+  },
+  {
+    "file": "process_05.pptx",
+    "title": "05_显示器与电视制造流程",
+    "bytes": 112928,
+    "sha256": "35246742d4c42212e992abaf23b88714c184f1cb8a6f21e46cfb519af11fdb3f"
+  },
+  {
+    "file": "process_06.pptx",
+    "title": "06_智能穿戴设备制造流程",
+    "bytes": 112916,
+    "sha256": "8502575348cc71a2c334b3e0960a77ff43614b52fdaeaecd823e132d25214c6c"
+  },
+  {
+    "file": "process_07.pptx",
+    "title": "07_TWS耳机制造流程",
+    "bytes": 112650,
+    "sha256": "0fdc664ce70ead835ea8e39e0389d5c7a567b1ae34ff983dd0722a09b2acc8ed"
+  },
+  {
+    "file": "process_08.pptx",
+    "title": "08_头戴耳机与音箱制造流程",
+    "bytes": 112902,
+    "sha256": "fe549229c82f60d3b541c8b7c739b879bcd1b309301f2b0a718456d13b84e22d"
+  },
+  {
+    "file": "process_09.pptx",
+    "title": "09_路由器与网络设备制造流程",
+    "bytes": 112695,
+    "sha256": "f13ce0db5f1226d53bf2846c5cf514d41bb28c458a9a1dd0741ff360af4b6acc"
+  },
+  {
+    "file": "process_10.pptx",
+    "title": "10_键盘鼠标与电脑外设制造流程",
+    "bytes": 113050,
+    "sha256": "7b03923a6d858b9f595aee95c3ef7c89d1b5f329c8349d4df6feb750265107ad"
+  },
+  {
+    "file": "process_11.pptx",
+    "title": "11_数码相机与运动相机制造流程",
+    "bytes": 112724,
+    "sha256": "489e207025f8820606f5da8ed0abb65370fce9a4dbac7cf28934cee7da7761bd"
+  },
+  {
+    "file": "process_12.pptx",
+    "title": "12_游戏机与手柄制造流程",
+    "bytes": 112370,
+    "sha256": "93a8f6bef74572794c70806611763b79aa61a0c5cd9e56b7c52618ccd9e9923c"
+  },
+  {
+    "file": "process_13.pptx",
+    "title": "迷你主机制造流程汇报_v2",
+    "bytes": 113129,
+    "sha256": "226ca47dd45937bfad113d3419f14095ae92978ba7f5dff92e4a58d076c61092"
+  }
+]
