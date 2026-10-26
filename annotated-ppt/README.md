@@ -4,6 +4,10 @@
 
 文件格式为 `.pptx`，可使用 Microsoft PowerPoint 或 WPS 演示打开。单份约 110 KB，共 29 页；保留原 16 页流程内容，并附人工操作逐项说明。
 
+## 中文配音讲解视频
+
+[打开13个独立MP4视频的下载清单](https://github.com/d1wght19-creator/codex-practice/tree/annotated-ppt-20261023/annotated-videos)
+
 ## 最新版：按机器人操作与技能参考表重做
 
 [下载最新版 Excel：13类产品_机器人操作与技能梳理](https://github.com/d1wght19-creator/codex-practice/raw/refs/heads/annotated-ppt-20261023/annotated-ppt/manufacturing_process_13_skills.xlsx)
