@@ -4,6 +4,18 @@
 
 文件格式为 `.pptx`，可使用 Microsoft PowerPoint 或 WPS 演示打开。单份约 110 KB，共 29 页；保留原 16 页流程内容，并附人工操作逐项说明。
 
+## 最新版：按机器人操作与技能参考表重做
+
+[下载最新版 Excel：13类产品_机器人操作与技能梳理](https://github.com/d1wght19-creator/codex-practice/raw/refs/heads/annotated-ppt-20261023/annotated-ppt/manufacturing_process_13_skills.xlsx)
+
+按用户提供的《3C与半导体_机器人操作与技能梳理.xlsx》组织为8个工作表：目录与说明、产品操作与技能、逐对象操作、通用技能、装配展开与技能、参考操作库、原文映射索引、现场核实清单。
+
+- 主表采用任务、对象类别、建议动作、操作要点、K技能、设备工装分工、实施边界、待确认项，以及黄色确认/纠正栏。
+- 保留494条主工序和91条装配展开的原文及人工/设备标注；装配展开不重复统计为新增工位。
+- 逐对象表区分工件、载具、治具、工具、设备和数据；保留原文出现、上下文推定及方案建议的依据状态。
+- K01—K20通用技能和C01—C20参考任务沿用用户参考表；N01—N09为本次候选任务补充。
+- 所有机器人方案及任务映射都待验证，未知参数和黄色确认/纠正栏留空。专用设备工艺、软件处理和人工诊断返修不写成已被机器人替代。
+
 ## Excel 总表（13 类产品，单个工作簿）
 
 [点击下载 Excel：13类产品制造流程与人机分工总表](https://github.com/d1wght19-creator/codex-practice/raw/refs/heads/annotated-ppt-20261023/annotated-ppt/manufacturing_process_13.xlsx)
